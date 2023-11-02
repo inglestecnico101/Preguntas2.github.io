@@ -128,7 +128,7 @@
             </div>
         </div>
 
-        <div class "question">
+        <div class="question">
             <p>Pregunta 7: ¿Qué tipo de computadora generalmente es preferida por profesionales en campos creativos que trabajan con edición de video, diseño gráfico y modelado 3D?</p>
             <div class="options">
                 <label><input type="radio" name="q7" value="a"> a) PC de escritorio.</label>
